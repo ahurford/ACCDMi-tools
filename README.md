@@ -1,1 +1,1 @@
-Can someone please add the link to the time-varying transmission rate repository here.
+![ACCDMi logo](https://github.com/ahurford/accdmi-website/blob/main/images/aarms_logo.png)
